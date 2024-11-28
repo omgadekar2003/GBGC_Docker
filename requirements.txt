@@ -1,13 +1,13 @@
-opencv-python==4.8.0.76
-mediapipe==0.10.8
-pyautogui==0.9.54
-ctypes  # ctypes is a built-in library, no need to install separately, but included for documentation
-numpy==1.26.0  # Required for OpenCV and MediaPipe
+#opencv-python==4.8.0.76
+#mediapipe==0.10.8
+#pyautogui==0.9.54
+#ctypes  # ctypes is a built-in library, no need to install separately, but included for documentation
+#numpy==1.26.0  # Required for OpenCV and MediaPipe
 
 ## if error occur use this:
 
-#opencv-python
-#mediapipe
-#pyautogui
-#ctypes  # ctypes is a built-in library, no need to install separately, but included for documentation
-#numpy  # Required for OpenCV and MediaPipe
+opencv-python
+mediapipe
+pyautogui
+ctypes  # ctypes is a built-in library, no need to install separately, but included for documentation
+numpy  # Required for OpenCV and MediaPipe
