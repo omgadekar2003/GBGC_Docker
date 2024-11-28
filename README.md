@@ -14,4 +14,4 @@ Usage:
 
 See Home Page Video to Use Gestures Correctly to Play Game.
 
-**Any error occur during building this Docker Image in your local machine  just remove the version numbers from the requiements.txt, only use there names(Ex. opencv-python  only)**
+**Any error occur during building this Docker Image in your local machine  just remove the version numbers from the requiements.txt, only use there names(Ex. opencv-python  only) Okay**
