@@ -8,6 +8,5 @@
 
 opencv-python
 mediapipe
-pyautogui
-ctypes  # ctypes is a built-in library, no need to install separately, but included for documentation
+pyautogui  # ctypes is a built-in library, no need to install separately, but included for documentation
 numpy  # Required for OpenCV and MediaPipe
