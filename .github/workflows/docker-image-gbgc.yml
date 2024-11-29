@@ -23,8 +23,8 @@ jobs:
       run: |
         docker build . \
           --file Dockerfile \
-          --tag your-dockerhub-username/gesture-game-control:latest
+          --tag omgadekar2003/gesture-game-control:latest
 
     - name: Push Docker Image
       run: |
-        docker push your-dockerhub-username/gesture-game-control:latest
+        docker push omgadekar2003/gesture-game-control:latest
